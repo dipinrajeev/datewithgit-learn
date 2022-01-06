@@ -1,3 +1,4 @@
 //test code
 
 print("Hello World")
+num=int(input("Enter a number: \n"))
